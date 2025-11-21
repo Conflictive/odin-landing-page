@@ -97,7 +97,6 @@ body {
     width: 200px;
 }
 
-
 .info-image {
     width: 200px;
     height: 200px;
@@ -106,4 +105,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.quote-container {
+    background-color: #e5e7eb;
 }
