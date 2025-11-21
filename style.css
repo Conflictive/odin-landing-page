@@ -78,3 +78,12 @@ body {
     color: white;
 
 }
+
+.information-header {
+    display: flex;
+    justify-content: center;
+}
+
+.information {
+    display: flex;
+}
