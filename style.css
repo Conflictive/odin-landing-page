@@ -22,3 +22,42 @@ body {
     padding: 0;
     gap: 16px;
 }
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: white;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-right: 40px;
+}
+
+.placeholder-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+    width: 400px;
+    height: 200px;
+    
+}
+
+.main-text {
+    width: 400px;
+    margin-bottom: -15px;
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+.secondary-text {
+   width: 400px;
+   font-size: 18x;
+   color: #f9faf8;
+}
