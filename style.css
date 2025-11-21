@@ -62,7 +62,7 @@ a {
 
 .main-text {
     width: 400px;
-    margin-bottom: -15px;
+    margin: 0;
     font-size: 48px;
     color: #f9faf8;
     font-weight: 900;
@@ -72,6 +72,7 @@ a {
    width: 400px;
    font-size: 18x;
    color: #f9faf8;
+   margin: 0;
 
 }
 
@@ -141,10 +142,11 @@ a {
     font-weight: 300;
     color: #1f2937;
     font-style: italic;
+    margin: 0;
 }
 
 .author {
-    margin-top: -50px;
+    margin: 0;
     font-weight: bold;
     text-align: right;
 }
