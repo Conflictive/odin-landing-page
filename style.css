@@ -137,14 +137,36 @@ body {
     text-align: right;
 }
 
+.background-container {
+    display: flex;
+    justify-content: center;
+    padding: 100px; 
+    
+}
+
 .end-container {
     display: flex;
     justify-content: center;
-    padding: 50px;
+    align-items: center;
+    background-color: #3882f6;
+    width: 900px;
+    padding: 40px;
+    border-radius: 8px;
+    color: white;
+   
 }
 
-.action {
-    margin-bottom: -3px;
+.sign-up-container {
+    margin-right: 150px;
+}
+
+.sign-up-container h3, 
+.sign-up-container p {
+    margin: 0; 
+}
+
+.end-container .sign-up {
+    border: 2px, solid, white;
 }
 
 
