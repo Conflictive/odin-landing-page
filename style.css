@@ -12,6 +12,7 @@ body {
     height: 50px;
     padding: 20px;
     gap: 750px;
+    flex-shrink: 1;
 }   
 
 .logo {
@@ -135,5 +136,17 @@ body {
     font-weight: bold;
     text-align: right;
 }
+
+.end-container {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.action {
+    margin-bottom: -3px;
+}
+
+
 
 
