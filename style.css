@@ -116,7 +116,7 @@ a {
 .info-image {
     height: 150px;
     border-radius: 10px;
-    border: 4px, solid #3882f6;
+    border: 4px solid #3882f6;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -178,7 +178,7 @@ a {
 }
 
 .end-container .sign-up {
-    border: 2px, solid, white;
+    border: 2px solid white;
 }
 
 .footer {
