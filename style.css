@@ -77,7 +77,8 @@ a {
    font-size: 18px;
    color: #f9faf8;
    margin: 0;
-
+   font-weight: 300;
+   margin-bottom: 10px;
 }
 
 .sign-up {
